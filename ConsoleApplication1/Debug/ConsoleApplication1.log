@@ -1,0 +1,16 @@
+﻿  ConsoleApplication1.cpp
+D:\лабы\мрз\1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(10,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\лабы\мрз\1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(15,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\лабы\мрз\1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(77,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\лабы\мрз\1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(103,13): warning C4018: <: несоответствие типов со знаком и без знака
+D:\лабы\мрз\1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(138,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\лабы\мрз\1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(142,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\лабы\мрз\1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(150,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\лабы\мрз\1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(154,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\лабы\мрз\1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(165,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\лабы\мрз\1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(176,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\лабы\мрз\1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(185,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\лабы\мрз\1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(195,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\лабы\мрз\1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(204,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\лабы\мрз\1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(213,23): warning C4018: <: несоответствие типов со знаком и без знака
+  ConsoleApplication1.vcxproj -> D:\лабы\мрз\1\ConsoleApplication1\Debug\ConsoleApplication1.exe
